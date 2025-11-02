@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ahmad Tanha" # "Your Name / Site Title"
+title                    : "Biography" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Ahmad Tanha"
 description              : &description "Ahmad Tanha's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ahmad Tanha"
   pronouns         : # example: "she/her"  
-  bio              : "Brief info."
+  #bio              : "Brief info."
   location         : "France"
   #employer         : "Red Brick University"
   uri              : # URL
