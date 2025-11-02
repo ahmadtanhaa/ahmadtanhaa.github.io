@@ -8,12 +8,26 @@ redirect_from:
 ---
 
 
+
+Ahmad Tanha is a final‑year Ph.D. candidate in Information and Communication Sciences and Technologies at Sorbonne University. His doctoral study investigates the communication–computation trade‑off for computing non-linear functions in distributed systems, using coding and information‑theoretic concepts to design algorithms that balance memory usage, communication overhead and computational cost across large‑scale networks. 
+<!-- Through this work he has published and presented at international conferences and in peer‑reviewed journals, contributing to the emerging field of coded distributed computing.-->
+
+Before joining Sorbonne, Ahmad earned his M.Sc. in Communication Systems from K. N. Toosi University of Technology (KNTU), where his thesis on optimizing elastic optical networks via probabilistic shaping improved spectral efficiency in optical transmissions. He also completed his B.Sc. in Electrical and Electronics Engineering at KNTU, developing a linear‑equalizer software for fibre‑optic channels.
+
+Alongside research, Ahmad is passionate about teaching. At KNTU and Sorbonne University, he has served as a teaching assistant for undergraduate courses on distributed systems, digital communications and coding theory, leading lab sessions and mentoring student projects. Ahmad’s teaching philosophy centres on bridging theory and practice: he strives to create interactive learning environments and encourages students to think critically about the design of communication networks and computational systems.
+
+
+
+
+
+<!--
+
 Ahmad is currently a final year Ph.D. student at Sorbonne University. He is working on “Communication-Computation tradeoff in Distributed Computing Systems” in his thesis, which aims to analyze memory, communication, and computation cost tradeoffs in distributed systems for a wide range of functions by utilizing coding and information theory concepts.
 
 He received his M.Sc. in Electrical and Electronics Engineering, and Communication Systems at K. N. Toosi University of Technology (KNTU), the oldest and one of the most prestigious technical universities in Iran. He worked on “Design Optimization of Elastic Optical Networks via Probabilistic Shaping” in his M.Sc. thesis. He also obtained his B.Sc. in Electrical and Electronics Engineering at KNTU with a project focusing on “Design and Implementation of Linear Equalizer Software for Fiber-Optic Channel”.
 
 
-<!--
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
