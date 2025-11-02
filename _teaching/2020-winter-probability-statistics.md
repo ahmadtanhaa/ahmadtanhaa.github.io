@@ -1,5 +1,5 @@
 ---
-title: "Probability and Statistics for Engineers (Teaching Assistant)"
+title: "Probability and Statistics (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-winter-probability-statistics
