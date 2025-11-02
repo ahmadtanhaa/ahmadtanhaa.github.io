@@ -9,12 +9,12 @@ redirect_from:
 
 
 
-Ahmad Tanha is a final‑year Ph.D. candidate in Information and Communication Sciences and Technologies at Sorbonne University. His doctoral study investigates the communication–computation trade‑off for computing non-linear functions in distributed systems, using coding and information‑theoretic concepts to design algorithms that balance memory usage, communication overhead and computational cost across large‑scale networks. 
+Ahmad Tanha is a final‑year Ph.D. candidate in Information and Communication Sciences and Technologies at Sorbonne University. His doctoral studies investigate the communication–computation trade‑off for computing non-linear functions in distributed systems, utilizing coding and information‑theoretic concepts to design algorithms that balance memory usage, communication overhead, and computational cost across large‑scale networks. 
 <!-- Through this work he has published and presented at international conferences and in peer‑reviewed journals, contributing to the emerging field of coded distributed computing.-->
 
-Before joining Sorbonne, Ahmad earned his M.Sc. in Communication Systems from K. N. Toosi University of Technology (KNTU), where his thesis on optimizing elastic optical networks via probabilistic shaping improved spectral efficiency in optical transmissions. He also completed his B.Sc. in Electrical and Electronics Engineering at KNTU, developing a linear‑equalizer software for fibre‑optic channels.
+Before joining Sorbonne University, Ahmad earned his M.Sc. in Communication Systems from K. N. Toosi University of Technology (KNTU), where his thesis focused on design optimization of elastic optical networks via probabilistic shaping, directly employed for improving spectral efficiency in optical transmissions. He also completed his B.Sc. in Electrical and Electronics Engineering at KNTU, developing a linear‑equalizer software for fiber‑optic channels.
 
-Alongside research, Ahmad is passionate about teaching. At KNTU and Sorbonne University, he has served as a teaching assistant for undergraduate courses on distributed systems, digital communications and coding theory, leading lab sessions and mentoring student projects. Ahmad’s teaching philosophy centres on bridging theory and practice: he strives to create interactive learning environments and encourages students to think critically about the design of communication networks and computational systems.
+Alongside research, Ahmad is passionate about teaching. At KNTU and Sorbonne University, he has served as a teaching assistant for various courses, including probability and statistics, principles of communication systems, digital communications, coding theory, and information theory, leading lab sessions and mentoring student projects in digital communication lab. Ahmad’s teaching philosophy centres on bridging theory and practice: he strives to create interactive learning environments and encourages students to think critically.
 
 
 
