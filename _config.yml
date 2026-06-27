@@ -25,7 +25,7 @@ repository               : "ahmadtanhaa/ahmadtanhaa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "new_prof.png"
   name             : "Ahmad Tanha"
   pronouns         : # example: "she/her"  
   bio              : "" # "Brief info."
